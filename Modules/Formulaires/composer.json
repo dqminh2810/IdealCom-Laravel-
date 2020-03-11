@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/formulaires",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Formulaires\\Providers\\FormulairesServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Formulaires\\": ""
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Formulaires",
+    "alias": "formulaires",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Formulaires\\Providers\\FormulairesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
